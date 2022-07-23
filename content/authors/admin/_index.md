@@ -18,7 +18,7 @@ organizations:
     url: https://publichealth.charlotte.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Health Services Research and Policy
       institution: University of Pittsburgh School of Public Health
       year: 2020
     - course: BA in Government
