@@ -1,6 +1,7 @@
 ---
 title: Mara Hollander
 role: Assistant Professor
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
