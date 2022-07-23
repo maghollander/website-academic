@@ -1,5 +1,5 @@
 ---
-title: Mara Hollander
+title: Mara A. G. Hollander
 role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: ""
