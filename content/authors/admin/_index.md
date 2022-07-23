@@ -1,8 +1,7 @@
 ---
 title: Mara Hollander
 role: Assistant Professor
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests: []
 social:
   - icon: envelope
@@ -15,20 +14,17 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=tryMfPsAAAAJ&hl=en&oi=ao
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: UNC Charlotte Department of Public Health Sciences
+    url: https://publichealth.charlotte.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
+      institution: University of Pittsburgh School of Public Health
+      year: 2020
+    - course: BA in Government
+      institution: Georgetown University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+email: mara.hollander@uncc.edu
 superuser: true
 highlight_name: true
 ---
